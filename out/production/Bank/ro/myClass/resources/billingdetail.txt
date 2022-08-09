@@ -1,0 +1,11 @@
+bankAccount,32132,Ionescu,Adrian,Bucuresti,30,BCR,BCRLROBU
+bankAccount,21876,Ursulescu,Marian,Ploiesti,35,BT,BTRLRO22PHA
+bankAccount,53289,Georgescu,Cristian,Iasi,24,BRD,BRDEROBU
+bankAccount,89324,Dumitrescu,George,Brasov,21,Banca Romaneasca,BRMAROBU
+bankAccount,75216,Barbu,David,Oradea,20,BRD,BRDEROBU
+bankAccount,11839,Anghel,Eduard,Sibiu,28,ING,INGROBU
+creditCard,45816,Popescu,Ovidiu,Cluj-Napoca,28,Visa,4,2023
+creditCard,67121,Stan,Paul,Timisoara,39,MASTERCARD,4,2027
+creditCard,93218,Stanciu,Rares,Arad,27,VISA,5,2024
+creditCard,76412,Ionita,Ioan,Constanta,37,VISA STAR,9,2028
+creditCard,43456,Dobre,Alin,Braila,23,MASTERCARD,1,2026
